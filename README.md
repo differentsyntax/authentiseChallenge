@@ -18,9 +18,10 @@
 * LAMP stack which includes Linux, Apache2, MySQL and PHP
 * jQuery, jQuery-ui
 
-## Current issues:
+## Current issues & future scope:
 * Unable to fix the connection with mysql server hence the table is not populating at the backend. Tried using PDO prepared statements instead of mysqli and got caught in synatx errors (should be fixed soon)
 * Styling is negligible, have to make it look pretty
+* Currently working on displaying a dynamic table with all the breeds in collection with names and pictures on the landing page using Ajax
 
 ## Challenges faced:
 * Setting up the LAMP stack from scratch
